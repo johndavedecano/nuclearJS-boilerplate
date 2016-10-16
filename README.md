@@ -1,4 +1,4 @@
-# nuclearJS-boilerplate
+# NuclearJS Boilerplate
 NuclearJS Boilerplate includes webpack, react-router and reactJS
 ## Installation
 ```
